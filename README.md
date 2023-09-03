@@ -22,4 +22,25 @@ Follow these steps to set up and run the Uniswap Arbitrage Bot on your local mac
 3. Deploy to Production:
        Once you've tested your strategies, deploy the bot to a production server and ensure it runs 24/7.
 
-## 
+## Web Dashboard
+The bot comes with a web-based dashboard for easy monitoring and control. Access it at `http://localhost:8080` by default.
+
+
+
+## Roadmap
+Here are some planned features for the Uniswap Arbitrage Bot:
+- Integration with more EVM-compatible blockchains.
+- Advanced trading strategies, including flash swaps and options.
+- Support for additional decentralized exchanges.
+- Enhanced user authentication and security features for the web dashboard.
+- Community contributions and feedback incorporation.
+
+## Contributing
+We welcome contributions from the community. To contribute to this project, please follow our .
+
+# License
+We welcome contributions from the community. To contribute to this project, please follow our Contribution Guidelines.
+
+
+Feel free to customize this template to fit your specific project requirements and design preferences. You should also include relevant documentation and code examples within your repository to assist users in setting up and using your Uniswap arbitrage bot.
+
