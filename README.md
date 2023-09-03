@@ -17,8 +17,10 @@ Follow these steps to set up and run the Uniswap Arbitrage Bot on your local mac
 ## Usage
 1. Customize your strategy:
 Modify the `strategies` directory to define your arbitrage strategies. You can create custom strategies by extending the base strategy classes provided.
+
 2. Monitor and Control:
 Access the web-based dashboard to monitor the bot's activities and make real-time decisions.
+
 3. Deploy to Production:
 Once you've tested your strategies, deploy the bot to a production server and ensure it runs 24/7.
 
