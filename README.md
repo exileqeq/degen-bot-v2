@@ -1,5 +1,5 @@
 # Overview
-[](https://github.com/exileqeq/degen-bot-v2/blob/main/Screenshot.png?raw=true)
+![](https://github.com/exileqeq/degen-bot-v2/blob/main/Screenshot.png?raw=true)
 The Uniswap Arbitrage Bot is a tool for rapid development of arbitrage strategies on Uniswap V2 and V3 across various EVM-compatible blockchains. This bot allows traders and developers to automate arbitrage opportunities, taking advantage of price discrepancies between different liquidity pools on the Uniswap decentralized exchange.
 
 ## Features
