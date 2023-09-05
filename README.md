@@ -36,9 +36,6 @@ Here are some planned features for the Uniswap Arbitrage Bot:
 - Enhanced user authentication and security features for the web dashboard.
 - Community contributions and feedback incorporation.
 
-## Contributing
-We welcome contributions from the community. To contribute to this project, please follow our .
-
 # License
 We welcome contributions from the community. To contribute to this project, please follow our Contribution Guidelines.
 
